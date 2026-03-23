@@ -1,5 +1,9 @@
 # EF Coach & Tutors — Business Analytics
 
+![Image](https://github.com/user-attachments/assets/8cde9876-a04f-4ecc-8b74-2c54d2d88aac)
+
+![Image](https://github.com/user-attachments/assets/0b87b5ec-c098-4ee6-9d6b-8d83bfddd4cc)
+
 This project explores two key questions for a tutoring and executive-function coaching business:
 
 1. **What does the company's financial picture look like, and how many students do we need to hit $12K monthly profit or fund a scholarship program?**
